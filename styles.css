@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 div.header {
     background-color: #1F2937;
     font-family: "Roboto", sans-serif;
@@ -27,10 +31,39 @@ div.hero {
     color: #F9FAF8;
     justify-content: space-around;
     align-items: center;
-    padding: 40px 150px;
 }
 
 .hero button {
     border-radius: 10px;
     background-color: #3882F6;
 }
+
+div .content_header {
+    font-weight: bold;
+    font-size: 36px;
+    color: #1F2937;
+    margin-top: 25px;
+}
+
+.content_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.info {
+    margin: 20px;
+    flex: 0;
+}
+
+.info img {
+    border: 5px solid #3882F6;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+}
+
+
+
+
