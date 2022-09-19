@@ -15,7 +15,6 @@ div.header {
     color: #E5E7EB;
 }
 
-li {
+.header li {
     display: inline;
 }
-
