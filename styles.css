@@ -1,0 +1,21 @@
+div.header {
+    background-color: #1F2937;
+    font-family: "Roboto", sans-serif;
+    color: #F9FAF8;
+    font-weight: bold;
+    font-size: 48px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.header ul {
+    list-style: none;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+li {
+    display: inline;
+}
+
