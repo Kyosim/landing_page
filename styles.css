@@ -1,5 +1,6 @@
 body {
     text-align: center;
+    font-family: "Roboto", sans-serif;
 }
 
 div.header {
@@ -64,6 +65,10 @@ div .content_header {
     border-radius: 10px;
 }
 
+.quote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+}
 
 
 
