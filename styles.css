@@ -18,3 +18,19 @@ div.header {
 .header li {
     display: inline;
 }
+
+div.hero {
+    display: flex;
+    background-color: #1F2937;
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px 150px;
+}
+
+.hero button {
+    border-radius: 10px;
+    background-color: #3882F6;
+}
